@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -24,3 +25,50 @@ hs_err_pid*
 replay_pid*
 /.project
 /.classpath
+=======
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+/bin/
+/target/
+/out/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE caches
+.idea/
+.vscode/
+
+# Maven-specific
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle-specific
+.gradle/
+build/
+
+# Java-specific
+*.class
+
+# Test reports and coverage
+/test-output/
+.surefire-*
+jacoco.exec
+
+# Environment files
+*.env
+
+>>>>>>> 188104f80a9524b011ea14ff5a7de9e4a69d1e7b
